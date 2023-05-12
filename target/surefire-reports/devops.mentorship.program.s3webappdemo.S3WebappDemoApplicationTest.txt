@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: devops.mentorship.program.s3webappdemo.S3WebappDemoApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.067 s - in devops.mentorship.program.s3webappdemo.S3WebappDemoApplicationTest

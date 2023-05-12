@@ -1,0 +1,9 @@
+/root/java-app/src/main/java/devops/mentorship/program/s3webappdemo/config/AWSConfig.java
+/root/java-app/src/main/java/devops/mentorship/program/s3webappdemo/service/UserService.java
+/root/java-app/src/main/java/devops/mentorship/program/s3webappdemo/controller/UserController.java
+/root/java-app/src/main/java/devops/mentorship/program/s3webappdemo/model/User.java
+/root/java-app/src/main/java/devops/mentorship/program/s3webappdemo/config/DatabaseConfig.java
+/root/java-app/src/main/java/devops/mentorship/program/s3webappdemo/service/S3Service.java
+/root/java-app/src/main/java/devops/mentorship/program/s3webappdemo/S3WebappDemoApplication.java
+/root/java-app/src/main/java/devops/mentorship/program/s3webappdemo/exception/NotFoundException.java
+/root/java-app/src/main/java/devops/mentorship/program/s3webappdemo/repository/UserRepository.java
